@@ -19,7 +19,7 @@ function bubbleSort(array) {
    }
 
 const testArr = [7, 1, 19, 4, 32, 8, 12, 3]
-console.log('pre bubbleSort: ', testArr)
+//console.log('pre bubbleSort: ', testArr)
 
 const result = bubbleSort(testArr)
-console.log('post bubbleSort: ', result)
+//console.log('post bubbleSort: ', result)
